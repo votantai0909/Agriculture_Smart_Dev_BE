@@ -1,0 +1,14 @@
+D:\dowload\SE_KI_8\AgricultureSmart\AgricultureSmart\AgricultureSmart.Repositories\bin\Debug\net8.0\AgricultureSmart.Repositories.deps.json
+D:\dowload\SE_KI_8\AgricultureSmart\AgricultureSmart\AgricultureSmart.Repositories\bin\Debug\net8.0\AgricultureSmart.Repositories.runtimeconfig.json
+D:\dowload\SE_KI_8\AgricultureSmart\AgricultureSmart\AgricultureSmart.Repositories\bin\Debug\net8.0\AgricultureSmart.Repositories.dll
+D:\dowload\SE_KI_8\AgricultureSmart\AgricultureSmart\AgricultureSmart.Repositories\bin\Debug\net8.0\AgricultureSmart.Repositories.pdb
+D:\dowload\SE_KI_8\AgricultureSmart\AgricultureSmart\AgricultureSmart.Repositories\obj\Debug\net8.0\AgricultureSmart.Repositories.csproj.AssemblyReference.cache
+D:\dowload\SE_KI_8\AgricultureSmart\AgricultureSmart\AgricultureSmart.Repositories\obj\Debug\net8.0\AgricultureSmart.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\dowload\SE_KI_8\AgricultureSmart\AgricultureSmart\AgricultureSmart.Repositories\obj\Debug\net8.0\AgricultureSmart.Repositories.AssemblyInfoInputs.cache
+D:\dowload\SE_KI_8\AgricultureSmart\AgricultureSmart\AgricultureSmart.Repositories\obj\Debug\net8.0\AgricultureSmart.Repositories.AssemblyInfo.cs
+D:\dowload\SE_KI_8\AgricultureSmart\AgricultureSmart\AgricultureSmart.Repositories\obj\Debug\net8.0\AgricultureSmart.Repositories.csproj.CoreCompileInputs.cache
+D:\dowload\SE_KI_8\AgricultureSmart\AgricultureSmart\AgricultureSmart.Repositories\obj\Debug\net8.0\AgricultureSmart.Repositories.dll
+D:\dowload\SE_KI_8\AgricultureSmart\AgricultureSmart\AgricultureSmart.Repositories\obj\Debug\net8.0\refint\AgricultureSmart.Repositories.dll
+D:\dowload\SE_KI_8\AgricultureSmart\AgricultureSmart\AgricultureSmart.Repositories\obj\Debug\net8.0\AgricultureSmart.Repositories.pdb
+D:\dowload\SE_KI_8\AgricultureSmart\AgricultureSmart\AgricultureSmart.Repositories\obj\Debug\net8.0\AgricultureSmart.Repositories.genruntimeconfig.cache
+D:\dowload\SE_KI_8\AgricultureSmart\AgricultureSmart\AgricultureSmart.Repositories\obj\Debug\net8.0\ref\AgricultureSmart.Repositories.dll

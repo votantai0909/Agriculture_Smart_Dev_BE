@@ -1,0 +1,15 @@
+D:\dowload\SE_KI_8\AgricultureSmart\AgricultureSmart\AgricultureSmart.Services\bin\Debug\net8.0\AgricultureSmart.Services.deps.json
+D:\dowload\SE_KI_8\AgricultureSmart\AgricultureSmart\AgricultureSmart.Services\bin\Debug\net8.0\AgricultureSmart.Services.dll
+D:\dowload\SE_KI_8\AgricultureSmart\AgricultureSmart\AgricultureSmart.Services\bin\Debug\net8.0\AgricultureSmart.Services.pdb
+D:\dowload\SE_KI_8\AgricultureSmart\AgricultureSmart\AgricultureSmart.Services\bin\Debug\net8.0\AgricultureSmart.Repositories.dll
+D:\dowload\SE_KI_8\AgricultureSmart\AgricultureSmart\AgricultureSmart.Services\bin\Debug\net8.0\AgricultureSmart.Repositories.pdb
+D:\dowload\SE_KI_8\AgricultureSmart\AgricultureSmart\AgricultureSmart.Services\obj\Debug\net8.0\AgricultureSmart.Services.csproj.AssemblyReference.cache
+D:\dowload\SE_KI_8\AgricultureSmart\AgricultureSmart\AgricultureSmart.Services\obj\Debug\net8.0\AgricultureSmart.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\dowload\SE_KI_8\AgricultureSmart\AgricultureSmart\AgricultureSmart.Services\obj\Debug\net8.0\AgricultureSmart.Services.AssemblyInfoInputs.cache
+D:\dowload\SE_KI_8\AgricultureSmart\AgricultureSmart\AgricultureSmart.Services\obj\Debug\net8.0\AgricultureSmart.Services.AssemblyInfo.cs
+D:\dowload\SE_KI_8\AgricultureSmart\AgricultureSmart\AgricultureSmart.Services\obj\Debug\net8.0\AgricultureSmart.Services.csproj.CoreCompileInputs.cache
+D:\dowload\SE_KI_8\AgricultureSmart\AgricultureSmart\AgricultureSmart.Services\obj\Debug\net8.0\Agricult.3F36D266.Up2Date
+D:\dowload\SE_KI_8\AgricultureSmart\AgricultureSmart\AgricultureSmart.Services\obj\Debug\net8.0\AgricultureSmart.Services.dll
+D:\dowload\SE_KI_8\AgricultureSmart\AgricultureSmart\AgricultureSmart.Services\obj\Debug\net8.0\refint\AgricultureSmart.Services.dll
+D:\dowload\SE_KI_8\AgricultureSmart\AgricultureSmart\AgricultureSmart.Services\obj\Debug\net8.0\AgricultureSmart.Services.pdb
+D:\dowload\SE_KI_8\AgricultureSmart\AgricultureSmart\AgricultureSmart.Services\obj\Debug\net8.0\ref\AgricultureSmart.Services.dll
