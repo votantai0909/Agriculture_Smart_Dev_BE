@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dowload\\SE_KI_8\\EXE201\\Agriculture_Smart_Git\\AgricultureSmart.Repositories\\AgricultureSmart.Repositories.csproj": {}
+    "D:\\AgricultureSmart\\Agriculture_Smart_Dev_BE\\AgricultureSmart.Repositories\\AgricultureSmart.Repositories.csproj": {}
   },
   "projects": {
-    "D:\\dowload\\SE_KI_8\\EXE201\\Agriculture_Smart_Git\\AgricultureSmart.Repositories\\AgricultureSmart.Repositories.csproj": {
+    "D:\\AgricultureSmart\\Agriculture_Smart_Dev_BE\\AgricultureSmart.Repositories\\AgricultureSmart.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dowload\\SE_KI_8\\EXE201\\Agriculture_Smart_Git\\AgricultureSmart.Repositories\\AgricultureSmart.Repositories.csproj",
+        "projectUniqueName": "D:\\AgricultureSmart\\Agriculture_Smart_Dev_BE\\AgricultureSmart.Repositories\\AgricultureSmart.Repositories.csproj",
         "projectName": "AgricultureSmart.Repositories",
-        "projectPath": "D:\\dowload\\SE_KI_8\\EXE201\\Agriculture_Smart_Git\\AgricultureSmart.Repositories\\AgricultureSmart.Repositories.csproj",
-        "packagesPath": "C:\\Users\\vo tan tai\\.nuget\\packages\\",
-        "outputPath": "D:\\dowload\\SE_KI_8\\EXE201\\Agriculture_Smart_Git\\AgricultureSmart.Repositories\\obj\\",
+        "projectPath": "D:\\AgricultureSmart\\Agriculture_Smart_Dev_BE\\AgricultureSmart.Repositories\\AgricultureSmart.Repositories.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "D:\\AgricultureSmart\\Agriculture_Smart_Dev_BE\\AgricultureSmart.Repositories\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\vo tan tai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\vo tan tai\\.nuget\\packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
