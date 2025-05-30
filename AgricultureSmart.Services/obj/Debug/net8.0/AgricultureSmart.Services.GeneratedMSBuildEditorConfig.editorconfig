@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AgricultureSmart.Services
-build_property.ProjectDir = D:\AgricultureSmart\Agriculture_Smart_Dev_BE\AgricultureSmart.Services\
+build_property.ProjectDir = D:\dowload\SE_KI_8\EXE201\Agriculture_Smart_Git\AgricultureSmart.Services\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AgricultureSmart\\Agriculture_Smart_Dev_BE\\AgricultureSmart.Services\\AgricultureSmart.Services.csproj": {}
+    "D:\\dowload\\SE_KI_8\\EXE201\\Agriculture_Smart_Git\\AgricultureSmart.Services\\AgricultureSmart.Services.csproj": {}
   },
   "projects": {
-    "D:\\AgricultureSmart\\Agriculture_Smart_Dev_BE\\AgricultureSmart.Repositories\\AgricultureSmart.Repositories.csproj": {
+    "D:\\dowload\\SE_KI_8\\EXE201\\Agriculture_Smart_Git\\AgricultureSmart.Repositories\\AgricultureSmart.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AgricultureSmart\\Agriculture_Smart_Dev_BE\\AgricultureSmart.Repositories\\AgricultureSmart.Repositories.csproj",
+        "projectUniqueName": "D:\\dowload\\SE_KI_8\\EXE201\\Agriculture_Smart_Git\\AgricultureSmart.Repositories\\AgricultureSmart.Repositories.csproj",
         "projectName": "AgricultureSmart.Repositories",
-        "projectPath": "D:\\AgricultureSmart\\Agriculture_Smart_Dev_BE\\AgricultureSmart.Repositories\\AgricultureSmart.Repositories.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\AgricultureSmart\\Agriculture_Smart_Dev_BE\\AgricultureSmart.Repositories\\obj\\",
+        "projectPath": "D:\\dowload\\SE_KI_8\\EXE201\\Agriculture_Smart_Git\\AgricultureSmart.Repositories\\AgricultureSmart.Repositories.csproj",
+        "packagesPath": "C:\\Users\\vo tan tai\\.nuget\\packages\\",
+        "outputPath": "D:\\dowload\\SE_KI_8\\EXE201\\Agriculture_Smart_Git\\AgricultureSmart.Repositories\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\vo tan tai\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\vo tan tai\\.nuget\\packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -98,21 +95,17 @@
         }
       }
     },
-    "D:\\AgricultureSmart\\Agriculture_Smart_Dev_BE\\AgricultureSmart.Services\\AgricultureSmart.Services.csproj": {
+    "D:\\dowload\\SE_KI_8\\EXE201\\Agriculture_Smart_Git\\AgricultureSmart.Services\\AgricultureSmart.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AgricultureSmart\\Agriculture_Smart_Dev_BE\\AgricultureSmart.Services\\AgricultureSmart.Services.csproj",
+        "projectUniqueName": "D:\\dowload\\SE_KI_8\\EXE201\\Agriculture_Smart_Git\\AgricultureSmart.Services\\AgricultureSmart.Services.csproj",
         "projectName": "AgricultureSmart.Services",
-        "projectPath": "D:\\AgricultureSmart\\Agriculture_Smart_Dev_BE\\AgricultureSmart.Services\\AgricultureSmart.Services.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\AgricultureSmart\\Agriculture_Smart_Dev_BE\\AgricultureSmart.Services\\obj\\",
+        "projectPath": "D:\\dowload\\SE_KI_8\\EXE201\\Agriculture_Smart_Git\\AgricultureSmart.Services\\AgricultureSmart.Services.csproj",
+        "packagesPath": "C:\\Users\\vo tan tai\\.nuget\\packages\\",
+        "outputPath": "D:\\dowload\\SE_KI_8\\EXE201\\Agriculture_Smart_Git\\AgricultureSmart.Services\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\vo tan tai\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -120,14 +113,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\vo tan tai\\.nuget\\packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\AgricultureSmart\\Agriculture_Smart_Dev_BE\\AgricultureSmart.Repositories\\AgricultureSmart.Repositories.csproj": {
-                "projectPath": "D:\\AgricultureSmart\\Agriculture_Smart_Dev_BE\\AgricultureSmart.Repositories\\AgricultureSmart.Repositories.csproj"
+              "D:\\dowload\\SE_KI_8\\EXE201\\Agriculture_Smart_Git\\AgricultureSmart.Repositories\\AgricultureSmart.Repositories.csproj": {
+                "projectPath": "D:\\dowload\\SE_KI_8\\EXE201\\Agriculture_Smart_Git\\AgricultureSmart.Repositories\\AgricultureSmart.Repositories.csproj"
               }
             }
           }

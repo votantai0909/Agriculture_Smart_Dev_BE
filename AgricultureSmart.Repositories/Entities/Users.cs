@@ -27,6 +27,13 @@ namespace AgricultureSmart.Repositories.Entities
         public DateTime UpdatedAt { get; set; }
 
         public bool IsActive { get; set; }
-        
+
+        // Navigation properties
+        public virtual ICollection<UserRole> UserRoles { get; set; }
+        public virtual ICollection<Blog> Blogs { get; set; }
+        public virtual ICollection<TicketComment> TicketComments { get; set; }
+        public virtual Engineer Engineer { get; set; }
+        public virtual Farmer Farmer { get; set; }
+
     }
 }

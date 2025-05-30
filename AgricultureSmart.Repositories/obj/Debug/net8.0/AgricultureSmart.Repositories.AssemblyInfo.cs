@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AgricultureSmart.Repositories")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7fd4d9bb078974843ab8513c823bcbdc60dd80e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05c951c1949c42dd0230fcc956f646c1b63a91a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("AgricultureSmart.Repositories")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AgricultureSmart.Repositories")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
